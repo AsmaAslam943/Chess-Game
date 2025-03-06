@@ -18,7 +18,7 @@ Installation
 1. Clone the repository:
 bash
 Copy
-git clone https://github.com/yourusername/chess-game.git
+git clone https://github.com/AsmaAslam943/Chess-Game.git
 cd chess-game
 2. Compile the game:
 For Linux/macOS (using g++):
